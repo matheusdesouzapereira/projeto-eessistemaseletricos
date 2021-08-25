@@ -2,7 +2,7 @@
  
  Sobre o projeto:
 - Esse é um projeto real que criei para a empresa EES Sistemas Elétricos. 
-- A ideia desse projeto é um site para falar sobre os serviços prestados e também um sistema criado em PHP para administração de orçamentos, ordens de serviços, relatórios e etc. 
+- A ideia desse projeto é um site institucional sobre os serviços prestados, sobre a empresa, contatos e também um sistema criado em PHP para administração de orçamentos, ordens de serviços, relatórios e etc. 
 - Eu desenvolvi todo o site institucional usando uma base de modelo pois ainda não tinha prática em criar sites do 0.
 
 # Linguagens usadas:
